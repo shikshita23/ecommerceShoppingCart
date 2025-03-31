@@ -1,12 +1,36 @@
-# React + Vite
+# Assessment using React
+## Installation & Setup
+1. Navigate to the frontend folder:
+   
+   cd task-frontend
+   
+2. Install dependencies:
+   
+   npm install
+   
+3. Start the React development server:
+   
+   npm run dev
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+4.  Install Json Server
+     
+     npm install -g json-server
+5. Start Json Server
+     json-server --watch db.json --port 3000
 
-Currently, two official plugins are available:
+### Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. React (Vite)
+2. React router
+3. Material Ui
+4. Tailwind Css
+5. REact Hook Form
+6. Axios
+7. JSON Server
 
-## Expanding the ESLint configuration
+#### Features 
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Ecommerce Cart Add/ remove items, update cart counter 
+2. Multi step form to add user
+3. Brewery Listing
+4. Company Listing
