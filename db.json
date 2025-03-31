@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "middleName": "Michael",
+      "lastName": "Doe",
+      "age": 30,
+      "gender": "Male",
+      "phoneNumber": "+1234567890",
+      "companyName": "TechCorp",
+      "companyAddress": "123 Tech Street, Silicon Valley",
+      "jobTitle": "Software Engineer",
+      "province": "Province 1",
+      "district": "District A",
+      "municipality": "Local Municipality X",
+      "streetAddress": "456 Elm Street"
+    },   
+    {
+      "id": "85a5",
+      "firstName": "Ram ",
+      "middleName": "Bahadur ",
+      "lastName": "Khatri",
+      "age": "12",
+      "gender": "male",
+      "phoneNumber": "9840102022",
+      "companyName": "Abc",
+      "companyAddress": "Koteshwor",
+      "jobTitle": "Developer",
+      "province": "Bagmati",
+      "district": "Kathmandu",
+      "municipality": "Kathmandu",
+      "street": "Himali"
+    }
+  ],
+  "cart": [
+    {
+      "id": "0c8b",
+      "productId": 1,
+      "name": "Pale Ale",
+      "price": 5.99,
+      "quantity": 6
+    },
+    {
+      "id": "4541",
+      "productId": 2,
+      "name": "IPA",
+      "price": 6.49,
+      "quantity": 1
+    },
+    {
+      "id": "bea2",
+      "productId": "4",
+      "name": "Lager",
+      "price": 4.99,
+      "quantity": 2
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Pale Ale",
+      "company": "Brew Co.",
+      "price": 5.99,
+      "description": "A crisp and refreshing pale ale with a hoppy flavor."
+    },
+    {
+      "id": "2",
+      "name": "IPA",
+      "company": "Hops Brewing",
+      "price": 6.49,
+      "description": "A bold IPA with a strong citrus and pine aroma."
+    },
+    {
+      "id": "3",
+      "name": "Stout",
+      "company": "Dark Brew",
+      "price": 7.19,
+      "description": "A rich, dark stout with coffee and chocolate notes."
+    },
+    {
+      "id": "4",
+      "name": "Lager",
+      "company": "Gold Brew",
+      "price": 4.99,
+      "description": "A light, crisp lager with a smooth finish."
+    },
+    {
+      "id": "5",
+      "name": "Wheat Beer",
+      "company": "Cloudy Brewing",
+      "price": 5.59,
+      "description": "A smooth wheat beer with fruity and spicy flavors."
+    },
+    {
+      "id": "6",
+      "name": "Porter",
+      "company": "Craft Brew",
+      "price": 6.79,
+      "description": "A dark, malty porter with hints of caramel and vanilla."
+    }
+  ]
+}

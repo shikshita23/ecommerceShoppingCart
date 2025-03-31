@@ -1,0 +1,6 @@
+@import "tailwindcss";body {
+     font-family: 'Roboto', sans-serif;
+   }
+@import "tailwindcss";.logo {
+     font-family: 'Playfair Display', 'serif'
+  }
